@@ -15,6 +15,7 @@
 
 ### Si buscas una persona con muchas ganas de trabajar y seguir aprendiendo contáctame:
 ### 📧 douglassananton@gmail.com o comunícate por mensaje privado a mi LinkedIn siempre estoy activo.
+### Tambiente dejo mi LinkedIn https://www.linkedin.com/in/douglas-san-anton-bianchi/
 
 ## Espero ser de gran ayuda en tu equipo de trabajo. 👨‍💻
 
