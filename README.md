@@ -1,4 +1,4 @@
-# ✨ Es un gusto conocerte <br> 👋😄 soy Douglas San Anton ✨
+# ✨ Es un gusto conocerte ✨<br> Soy Douglas San Anton 👋😄
 
 ## Actualmente trabajo con estas tecnologias:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
