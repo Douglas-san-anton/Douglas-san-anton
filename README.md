@@ -1,4 +1,4 @@
-## ✨Soy Douglas San Anton 👋😄
+## ✨Soy Douglas San Antón Bianchi 👋😄
 
 ### Actualmente trabajo con estas tecnologias:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
