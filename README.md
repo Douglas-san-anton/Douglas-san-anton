@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Douglas</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+![desktop](https://user-images.githubusercontent.com/73114495/187983032-90271add-d92f-49ae-859f-2e3aa65ccf72.gif)
 
 - 👨‍💻 All of my projects are available at [https://dusandev.netlify.app/](https://dusandev.netlify.app/)
 
