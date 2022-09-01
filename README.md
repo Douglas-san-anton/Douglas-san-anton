@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Douglas San Anton Bianchi</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-![desktop](https://user-images.githubusercontent.com/73114495/187983032-90271add-d92f-49ae-859f-2e3aa65ccf72.gif)
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/73114495/187993544-8598e647-6164-44d2-b157-5b7e36bc046a.gif">
 
